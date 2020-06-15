@@ -1,0 +1,9 @@
+- Analisar nulos por coluna e linha.
+- Ver colunas com muitos nulls.
+- Ver linhas com alto percentual de nulos, linhas poucos significantes devem ser dropadas.
+- Tecnicas de similiaridade para datasets, envolvendo numeros e textos.
+- Identificar quais celulas mais contribuíram para cada analise.
+- Possibilidade de inserir poucos dados manualmente ao inves de dataset montadinho.
+- Aplicar stop_words (regex, punctuation).
+- Entender como funciona numeros no spacy.
+- (Talvez) Treinar modelo.
